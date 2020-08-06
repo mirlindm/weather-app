@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirlindm/weather-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mirlindm/weather-app/issues"
+  },
+  "homepage": "https://github.com/mirlindm/weather-app#readme"
 }
